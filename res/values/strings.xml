@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocationMapView</string>
+    <string name="btnCaption_find">検索</string>
+    <string name="warning_searchAddressRequired">住所を入力してください</string>
+    <string name="progressDialog_getLocationTitle">現在地地図</string>
+    <string name="progressDialog_getLocationMessage">現在地の地図を取得しています...</string>
+    <string name="progressDialog_addressSearchTitle">住所検索</string>
+    <string name="progressDialog_addressSearchMessage">入力した住所の地図を検索中...</string>
+    <string name="warning_locationNotAvailable">現在位置を取得することができませんでした</string>
+    <string name="warning_addressGetError">現在住所は取得できません</string>
+    <string name="fatalDialog_locationAvailableTitle">位置情報エラー報告</string>
+    <string name="fatalDialog_locationProviderNotAvailable">位置情報は現在ご利用になれません</string>
+    <string name="errorDialog_searchResultTitle">住所検索エラー報告</string>
+    <string name="button_close">閉じる</string>
+</resources>

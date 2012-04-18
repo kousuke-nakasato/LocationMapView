@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+	<item android:id="@+id/item1"
+	      android:title="現在地"></item>
+	<item android:id="@+id/item2"
+	      android:title="拡大"></item>
+	<item android:id="@+id/item3"
+	      android:title="縮小"></item>
+	<item android:id="@+id/item4"
+	      android:title="住所検索"></item>
+	<item android:id="@+id/item5"
+	      android:title="反転"></item>
+	<item android:id="@+id/item6"
+	      android:title="終了"></item>
+</menu>
